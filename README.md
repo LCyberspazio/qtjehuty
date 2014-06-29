@@ -24,6 +24,14 @@ and many others.
 
 Compile it with QTCreator IDE
 _________________________________________________
+
+Thanks to:
+
+Alessandro Pantano  - Testing
+
+Lorenzo Faletra  -  Suggestions
+
+_________________________________________________
 USAGE:
 
 Meet your friend, by person or by phone (less secure
