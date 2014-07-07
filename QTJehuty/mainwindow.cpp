@@ -281,3 +281,8 @@ void MainWindow::on_pushButton_clicked()
     msgBox.setText("QTJehuty by Giovanni Santostefano\nvisit: http://twocentssecurity.wordpress.com/\n\nreleased under GPLv3");
     msgBox.exec();
 }
+
+void MainWindow::on_cleartextline_textChanged(const QString &arg1)
+{
+    ui->progressBar->setValue(ui->cleartextline->text().length());
+}
